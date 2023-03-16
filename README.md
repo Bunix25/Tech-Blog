@@ -67,4 +67,4 @@ There are currently no tests for this application.
 
 [GitHub Profile](https://github.com/Bunix25)
 
-Email Me -- 
+Email Me -- svattt7@gmail

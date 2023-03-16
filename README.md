@@ -65,6 +65,6 @@ There are currently no tests for this application.
 
 ## Contact
 
-[GitHub Profile]()
+[GitHub Profile](https://github.com/Bunix25)
 
 Email Me -- 
